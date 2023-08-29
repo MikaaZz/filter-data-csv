@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "luishenriquemalagi",
+    "address": "Lençóis Paulista",
+    "position": "CPQ",
+    "role": "Técnico de Laboratório II",
+    "userName": "Luis Henrique Malagi",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 101190,
+    "userTotalTimeFormatted": "1m:41s:0.190ms"
+  },
+  {
+    "id": "sergiosouzadealmeida",
+    "address": "Linhares ",
+    "position": "CENTRO DE COLETA LINHARES",
+    "role": "MOTORISTA COLET.OLEO LUBRIF.USADO",
+    "userName": "Sergio ",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 132430,
+    "userTotalTimeFormatted": "2m:12s:0.430ms"
+  },
+  {
+    "id": "brenocardozopereira",
+    "address": "Linhares ",
+    "position": "CENTRO DE COLETA LINHARES",
+    "role": "MOTORISTA COLET.OLEO LUBRIF.USADO",
+    "userName": "Breno do ÓLEO",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 176810,
+    "userTotalTimeFormatted": "2m:56s:0.810ms"
+  },
+  {
+    "id": "lucianorodrigues",
+    "address": "Lençóis Paulista",
+    "position": "Financeiro",
+    "role": "Analista financeiro",
+    "userName": "Luciano Rodrigues",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 384690,
+    "userTotalTimeFormatted": "6m:24s:0.690ms"
+  },
+  {
+    "id": "isamaramantoandeoliveira",
+    "address": "Lençóis Paulista",
+    "position": "Contabilidade",
+    "role": "Analista contábil",
+    "userName": "Isamara",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 455030,
+    "userTotalTimeFormatted": "7m:35s:0.030ms"
+  },
+  {
+    "id": "priscilaaparecidadematosgoncalves",
+    "address": "Lençóis Paulista",
+    "position": "Controladoria e Finanças",
+    "role": "Analista Financeiro",
+    "userName": "Priscila Aparecida de Matos Goncalves",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 591030,
+    "userTotalTimeFormatted": "9m:51s:0.030ms"
+  },
+  {
+    "id": "deividmoessarodrigues",
+    "address": "LENÇOIS PAULISTA",
+    "position": "ENGENHARIA",
+    "role": "ENGENHEIRO DE MANUTENÇÃO",
+    "userName": "DEIVID MOESSA RODRIGUES",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 596100,
+    "userTotalTimeFormatted": "9m:56s:0.100ms"
+  },
+  {
+    "id": "jonatascezarforte",
+    "address": "BAURU",
+    "position": "FINANCEIRO",
+    "role": "ANALISTA I",
+    "userName": "JONATAS CEZAR FORTE",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 758790,
+    "userTotalTimeFormatted": "12m:38s:0.790ms"
+  },
+  {
+    "id": "anacarolinesoaresferreira",
+    "address": "Lençóis Paulista",
+    "position": "Apoio a Operação",
+    "role": "Assistente Logistica",
+    "userName": "Ana Caroline Soares Ferreira",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 857880,
+    "userTotalTimeFormatted": "14m:17s:0.880ms"
+  },
+  {
+    "id": "petersonluizvonholleben",
+    "address": "Lençóis Paulista",
+    "position": "Jurídico",
+    "role": "Advogado II",
+    "userName": "Peterson Luiz von Holleben",
+    "userTotalScore": {
+      "userTotalScore": 1400
+    },
+    "userTotalTime": 2531050,
+    "userTotalTimeFormatted": "42m:11s:0.050ms"
+  },
+  {
+    "id": "reinaldodiasfranca",
+    "address": "Lençóis Paulista",
+    "position": "CPQ",
+    "role": "Técnico de Laboratório I",
+    "userName": "Reinaldo ",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 93210,
+    "userTotalTimeFormatted": "1m:33s:0.210ms"
+  },
+  {
+    "id": "marcellagarciafalconerio",
+    "address": "Lençóis Paulista ",
+    "position": "Manutenção Elétrica/Instrumentação ",
+    "role": "Estagiária",
+    "userName": "Marcella Garcia Falconerio",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 162880,
+    "userTotalTimeFormatted": "2m:42s:0.880ms"
+  },
+  {
+    "id": "helderjosedasilva",
+    "address": "Lençóis Paulista",
+    "position": "Tributario",
+    "role": "Assistente Administrativo",
+    "userName": "Helder",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 204320,
+    "userTotalTimeFormatted": "3m:24s:0.320ms"
+  },
+  {
+    "id": "cristianorogeriosaluceste",
+    "address": "LENCOIS PAULISTA",
+    "position": "MANUETENÇÃO INDUSTRIAL",
+    "role": "TECNICO ELETRICA/INSTRUMENTAÇÃO",
+    "userName": "CRISTIANO ROGERIO SALUCESTE",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 303030,
+    "userTotalTimeFormatted": "5m:03s:0.030ms"
+  },
+  {
+    "id": "vitoraugustodesouza",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção Industrial",
+    "role": "Técnico Manutenção Elétrica / Instrumentação ",
+    "userName": "Vitor Augusto de Souza",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 404350,
+    "userTotalTimeFormatted": "6m:44s:0.350ms"
+  },
+  {
+    "id": "rianaugustosilvadalaqua",
+    "address": "Lençóis Paulista",
+    "position": "Financeiro",
+    "role": "Assistente",
+    "userName": "Rian",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 654870,
+    "userTotalTimeFormatted": "10m:54s:0.870ms"
+  },
+  {
+    "id": "adrianasantosdasilvarosa",
+    "address": "Feira de Santana",
+    "position": "Coleta e Logística",
+    "role": "Auxiliar Administrativo",
+    "userName": "Adriana Santos da Silva Rosa",
+    "userTotalScore": {
+      "userTotalScore": 1380
+    },
+    "userTotalTime": 761590,
+    "userTotalTimeFormatted": "12m:41s:0.590ms"
+  },
+  {
+    "id": "brendamartins",
+    "address": "Lençóis Paulista/SP",
+    "position": "Planejamento e Controle",
+    "role": "Assistente Administrativo",
+    "userName": "Brenda Martins",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 174470,
+    "userTotalTimeFormatted": "2m:54s:0.470ms"
+  },
+  {
+    "id": "isabelareginalopessimoes",
+    "address": "LENCÇOIS PAULISTA",
+    "position": "TECNOLOGIA DA INFORMAÇÃO",
+    "role": "ANALISTA DE CADASTRO",
+    "userName": "ISABELA REGINA LOPES SIMOES",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 321980,
+    "userTotalTimeFormatted": "5m:21s:0.980ms"
+  },
+  {
+    "id": "marcosgomesdossantos",
+    "address": "Linhares ",
+    "position": "Centro de Coleta Linhares/Es ",
+    "role": "OPER.CENTRO COLETA I",
+    "userName": "Gomes",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 420430,
+    "userTotalTimeFormatted": "7m:00s:0.430ms"
+  },
+  {
+    "id": "camiladesouzaprado",
+    "address": "Lençóis Paulista",
+    "position": "Central de Auditoria",
+    "role": "Analista de Processo de Col. e Logistica l",
+    "userName": "Camila de Souza Prado",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 577340,
+    "userTotalTimeFormatted": "9m:37s:0.340ms"
+  },
+  {
+    "id": "pamelabiagiomessiasdealmeida",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "CONTABILIDADE",
+    "role": "ANALISTA CONTÁBIL II",
+    "userName": "PAMELA BIAGIO MESSIAS DE ALMEIDA",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 675190,
+    "userTotalTimeFormatted": "11m:15s:0.190ms"
+  },
+  {
+    "id": "leonardostradiotodesousa",
+    "address": "Lençóis Paulista",
+    "position": "Apoio a operações",
+    "role": "Auxiliar Administrativo",
+    "userName": "Leonardo Stradioto de Sousa",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 1070980,
+    "userTotalTimeFormatted": "17m:50s:0.980ms"
+  },
+  {
+    "id": "allanlorentefabretti",
+    "address": "São Paulo",
+    "position": "Comercial Coleta",
+    "role": "Gestor Comercial Coleta",
+    "userName": "Allan Lorente Fabretti",
+    "userTotalScore": {
+      "userTotalScore": 1360
+    },
+    "userTotalTime": 1276550,
+    "userTotalTimeFormatted": "21m:16s:0.550ms"
+  },
+  {
+    "id": "carlostadeuschulz",
+    "address": "Linhares ",
+    "position": "CENTRO DE COLETA LINHARES",
+    "role": "MOTORISTA COLET.OLEO LUBRIF.USADO",
+    "userName": "Tadeu",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 190070,
+    "userTotalTimeFormatted": "3m:10s:0.070ms"
+  },
+  {
+    "id": "brunodiegolodesouza",
+    "address": "Lençóis Paulista",
+    "position": "Produção",
+    "role": "Gerente",
+    "userName": "Bruno Diegolo de Souza",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 454300,
+    "userTotalTimeFormatted": "7m:34s:0.300ms"
+  },
+  {
+    "id": "milenastefaniteli",
+    "address": "Lençóis Paulista",
+    "position": "Operações de coleta ",
+    "role": "auxiliar administrativo",
+    "userName": "Milena Teli",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 522090,
+    "userTotalTimeFormatted": "8m:42s:0.090ms"
+  },
+  {
+    "id": "alinemoraesferreira",
+    "address": "Lençóis Paulista",
+    "position": "CPQ",
+    "role": "Analista de Laboratório",
+    "userName": "Aline Moraes Ferreira",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 754070,
+    "userTotalTimeFormatted": "12m:34s:0.070ms"
+  },
+  {
+    "id": "brunapereiradasilva",
+    "address": "Lençóis Paulista",
+    "position": "Financeiro",
+    "role": "Assistente Financeiro ",
+    "userName": "Bruna Pereira da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 879370,
+    "userTotalTimeFormatted": "14m:39s:0.370ms"
+  },
+  {
+    "id": "alessandromarcoseugenio",
+    "address": "Lençóis Paulista",
+    "position": "Logistica",
+    "role": "Supervisor de Transportes",
+    "userName": "Alessandro Marcos Eugenio",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 910530,
+    "userTotalTimeFormatted": "15m:10s:0.530ms"
+  },
+  {
+    "id": "luaneijikoike",
+    "address": "Lençóis Paulista/SP",
+    "position": "Auditoria Coleta",
+    "role": "Assistente de Logística",
+    "userName": "Luan Eiji Koike",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 1087910,
+    "userTotalTimeFormatted": "18m:07s:0.910ms"
+  },
+  {
+    "id": "felipetalamontesales",
+    "address": "Lençóis Paulista ",
+    "position": "Financeiro",
+    "role": "Analista Financeiro II",
+    "userName": "FELIPE TALAMONTE SALES",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 1250230,
+    "userTotalTimeFormatted": "20m:50s:0.230ms"
+  },
+  {
+    "id": "thaisaparecidainacio",
+    "address": "Lençóis Paulista",
+    "position": "Controladoria - Tributário",
+    "role": "Analista Tributário",
+    "userName": "Thais Aparecida Inacio",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 1257640,
+    "userTotalTimeFormatted": "20m:57s:0.640ms"
+  },
+  {
+    "id": "jeremiasrodriguesandriotti",
+    "address": "Lençóis Paulista",
+    "position": "Produção",
+    "role": "Engenheiro de Processos",
+    "userName": "Jeremias Rodrigues Andriotti",
+    "userTotalScore": {
+      "userTotalScore": 1340
+    },
+    "userTotalTime": 1918430,
+    "userTotalTimeFormatted": "31m:58s:0.430ms"
+  },
+  {
+    "id": "zedequiasdosanjosgomes",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção Industrial",
+    "role": "Tecnico Eletrica Instrumentação",
+    "userName": "ZEDEQUIAS DOS ANJOS GOMES",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 215200,
+    "userTotalTimeFormatted": "3m:35s:0.200ms"
+  },
+  {
+    "id": "maryelleangeloventura",
+    "address": "Lençóis Paulista",
+    "position": "Laboratório",
+    "role": "Técnico de Laboratório I",
+    "userName": "Maryelle Angelo Ventura",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 295950,
+    "userTotalTimeFormatted": "4m:55s:0.950ms"
+  },
+  {
+    "id": "lucasgattazcury",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção Industrial",
+    "role": "Mecânico de Manutenção",
+    "userName": "Lucas Gattaz Cury",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 340460,
+    "userTotalTimeFormatted": "5m:40s:0.460ms"
+  },
+  {
+    "id": "analigiacastelhanolopes",
+    "address": "Lençóis Paulista/SP",
+    "position": "Tecnologia da Informação",
+    "role": "Assistente Administrativo",
+    "userName": "Ana Ligia Castelhano Lopes",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 455160,
+    "userTotalTimeFormatted": "7m:35s:0.160ms"
+  },
+  {
+    "id": "giovannastefanyserranodias",
+    "address": "Lençoís Paulista",
+    "position": "Apoio à Operações de Coleta",
+    "role": "Assistente Administrativo",
+    "userName": "Giovanna Stefany Serrano Dias",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 601020,
+    "userTotalTimeFormatted": "10m:01s:0.020ms"
+  },
+  {
+    "id": "andreluismartins",
+    "address": "Lençóis Paulista ",
+    "position": "Logística ",
+    "role": "Manobrista ",
+    "userName": "André Luís Martins ",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 606760,
+    "userTotalTimeFormatted": "10m:06s:0.760ms"
+  },
+  {
+    "id": "brunacarolinaaraujo",
+    "address": "Lencois Paulista",
+    "position": "Financeiro",
+    "role": "Especialista Financeiro",
+    "userName": "Bruna Carolina Araujo",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 638980,
+    "userTotalTimeFormatted": "10m:38s:0.980ms"
+  },
+  {
+    "id": "danielaamorimdossantos",
+    "address": "Lençóis Paulista",
+    "position": "Inovação e Tecnologia Coorporativa",
+    "role": "Especialista em Inovação e Tecnologia",
+    "userName": "Daniela Amorim dos Santos",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 790400,
+    "userTotalTimeFormatted": "13m:10s:0.400ms"
+  },
+  {
+    "id": "mariafernandalopesrolim",
+    "address": "Lençóis Paulista SP ",
+    "position": "Controladoria",
+    "role": "Analista Contábil Sênior ",
+    "userName": "Maria Fernanda Lopes Rolim",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 1008450,
+    "userTotalTimeFormatted": "16m:48s:0.450ms"
+  },
+  {
+    "id": "gabrielnascimentodaluz",
+    "address": "LENÇOIS - MATRIZ",
+    "position": "P&C - COMERCIAL",
+    "role": "ASSISTENTE ADMINISTRATIVO",
+    "userName": "GABRIEL LUZ",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 1227930,
+    "userTotalTimeFormatted": "20m:27s:0.930ms"
+  },
+  {
+    "id": "muriloteraokadelima",
+    "address": "Lençóis Pta",
+    "position": "Tributário",
+    "role": "Estagiário",
+    "userName": "Murilo Teraoka de Lima",
+    "userTotalScore": {
+      "userTotalScore": 1320
+    },
+    "userTotalTime": 1282650,
+    "userTotalTimeFormatted": "21m:22s:0.650ms"
+  },
+  {
+    "id": "dirleiassumpcaodecarvalho",
+    "address": "LINHARES ",
+    "position": "CENTRO DE COLETA LINHARES ",
+    "role": "MOTORISTA COLET.OLEO LUBRIF.USADO",
+    "userName": "DIRLEI",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 307530,
+    "userTotalTimeFormatted": "5m:07s:0.530ms"
+  },
+  {
+    "id": "nicolepaschoalinotto",
+    "address": "Lençóis Paulista",
+    "position": "Laboratório - CPQ",
+    "role": "Técnico de Laboratório II",
+    "userName": "Nicole Paschoalinotto",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 393300,
+    "userTotalTimeFormatted": "6m:33s:0.300ms"
+  },
+  {
+    "id": "hiagofelipelopes",
+    "address": "Lençois Paulista ",
+    "position": "laboratorio ",
+    "role": "estagiario ",
+    "userName": "hiago felipe lopes",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 488780,
+    "userTotalTimeFormatted": "8m:08s:0.780ms"
+  },
+  {
+    "id": "andersonlimadecarvalho",
+    "address": "Osasco",
+    "position": "Comercial Coleta",
+    "role": "Osasco",
+    "userName": "Anderson Lima de Carvalho",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 830640,
+    "userTotalTimeFormatted": "13m:50s:0.640ms"
+  },
+  {
+    "id": "jessicapereiravieira",
+    "address": "LENÇOIS PAULISTA ",
+    "position": "PRODUÇÃO",
+    "role": "ESTAGIÁRIA",
+    "userName": "JESSICA VIEIRA",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 887840,
+    "userTotalTimeFormatted": "14m:47s:0.840ms"
+  },
+  {
+    "id": "leandrogonzaga",
+    "address": "Lençois Paulista",
+    "position": "Financeiro",
+    "role": "Analista Financeiro",
+    "userName": "Leandro Gonzaga",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 928440,
+    "userTotalTimeFormatted": "15m:28s:0.440ms"
+  },
+  {
+    "id": "laisbiagibarbosa",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "FINANCEIRO",
+    "role": "ASSISTENTE FINANCEIRO",
+    "userName": "LAIS BIAGI BARBOSA",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 941250,
+    "userTotalTimeFormatted": "15m:41s:0.250ms"
+  },
+  {
+    "id": "viniciusvieiradasilva",
+    "address": "Lençóis Paulista - SP",
+    "position": "Comercial",
+    "role": "Analista Técnico Comercial",
+    "userName": "Vinicius Vieira da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 1362250,
+    "userTotalTimeFormatted": "22m:42s:0.250ms"
+  },
+  {
+    "id": "andrebuona",
+    "address": "lençóis paulista",
+    "position": "fabrica",
+    "role": "operador lider",
+    "userName": "andre buona",
+    "userTotalScore": {
+      "userTotalScore": 1300
+    },
+    "userTotalTime": 1398650,
+    "userTotalTimeFormatted": "23m:18s:0.650ms"
+  },
+  {
+    "id": "gabriellegabasfelipenovaes",
+    "address": "Lençóis Paulista",
+    "position": "Comunicação e Marketing ",
+    "role": "Analista de Comunicação",
+    "userName": "Gabi Gabas",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 456520,
+    "userTotalTimeFormatted": "7m:36s:0.520ms"
+  },
+  {
+    "id": "giulialuizarindonisouza",
+    "address": "Lençóis Paulista",
+    "position": "Gestão de Resíduos ",
+    "role": "Analista de Operações",
+    "userName": "Giulia Luiza Rindoni Souza",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 527110,
+    "userTotalTimeFormatted": "8m:47s:0.110ms"
+  },
+  {
+    "id": "robertodonizetidiasjunior",
+    "address": "Lençóis Paulista",
+    "position": "Apoio a operações",
+    "role": "Auxiliar Administrativo",
+    "userName": "Roberto Donizeti Dias Junior",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 542010,
+    "userTotalTimeFormatted": "9m:02s:0.010ms"
+  },
+  {
+    "id": "nataliaguiliceoliva",
+    "address": "Lençóis Paulista",
+    "position": "Tecnologia da Informação",
+    "role": "Assistente Administrativo",
+    "userName": "Natalia Guilice Oliva",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 729870,
+    "userTotalTimeFormatted": "12m:09s:0.870ms"
+  },
+  {
+    "id": "carolinasabbadini",
+    "address": "Lençóis Paulista",
+    "position": "Estratégia e Novos Negócios",
+    "role": "Analista Estratégia e M&A",
+    "userName": "Carolina Sabbadini",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 920300,
+    "userTotalTimeFormatted": "15m:20s:0.300ms"
+  },
+  {
+    "id": "benjamincamiladossantos",
+    "address": "Lençois Paulista",
+    "position": "TECNOLOGIA DA INFORMAÇÃO",
+    "role": "Assistente administrativo",
+    "userName": "Benjamin Camila dos Santos",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 957450,
+    "userTotalTimeFormatted": "15m:57s:0.450ms"
+  },
+  {
+    "id": "isabelaaparecidadasilva",
+    "address": "Lençóis Paulista",
+    "position": "Contabilidade",
+    "role": "Estagiária",
+    "userName": "Isabela Aparecida da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 1242330,
+    "userTotalTimeFormatted": "20m:42s:0.330ms"
+  },
+  {
+    "id": "gabriellacapoaniticianelli",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "PLANEJAMENTO E CONTROLE - COLETA",
+    "role": "ASSISTENTE ADMINISTRATIVO",
+    "userName": "GABRIELA CAPOANI TICIANELLI",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 1400650,
+    "userTotalTimeFormatted": "23m:20s:0.650ms"
+  },
+  {
+    "id": "lucasmarcelino",
+    "address": "Lençóis Paulista",
+    "position": "Planejamento & Controle",
+    "role": "Analista de Processos",
+    "userName": "Lucas Marcelino",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 1437240,
+    "userTotalTimeFormatted": "23m:57s:0.240ms"
+  },
+  {
+    "id": "vivianesouzapesqueiradasilva",
+    "address": "Lençois Paulista",
+    "position": "Compras",
+    "role": "Compradora",
+    "userName": "Viviane S Pesqueira da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1280
+    },
+    "userTotalTime": 1766020,
+    "userTotalTimeFormatted": "29m:26s:0.020ms"
+  },
+  {
+    "id": "joaopedrogasparotto",
+    "address": "Lençois Pta",
+    "position": "CPQ",
+    "role": "Analista ",
+    "userName": "João Pedro Gasparotto",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 498610,
+    "userTotalTimeFormatted": "8m:18s:0.610ms"
+  },
+  {
+    "id": "gabrielvitordemira",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção Industrial",
+    "role": "Técnico em manutenção elétrica/instrumentação",
+    "userName": "Gabriel Vitor de Mira",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 574900,
+    "userTotalTimeFormatted": "9m:34s:0.900ms"
+  },
+  {
+    "id": "cleberricardorebelatto",
+    "address": "Lençóis Paulista",
+    "position": "Produção",
+    "role": "Operador Líder",
+    "userName": "Cleber Ricardo Rebelatto",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 879680,
+    "userTotalTimeFormatted": "14m:39s:0.680ms"
+  },
+  {
+    "id": "eltonwilliandasilva",
+    "address": "Lençois Paulista",
+    "position": "Produção",
+    "role": "Operador Lider",
+    "userName": "Elton Willian da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 1011880,
+    "userTotalTimeFormatted": "16m:51s:0.880ms"
+  },
+  {
+    "id": "brunoguilherme",
+    "address": "Palhoça",
+    "position": "Comercial Coleta",
+    "role": "Analista Comercial",
+    "userName": "Bruno Guilherme",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 1218010,
+    "userTotalTimeFormatted": "20m:18s:0.010ms"
+  },
+  {
+    "id": "rafaelviniciuscuriel",
+    "address": "Lençóis Paulista",
+    "position": "Tecnologia da Informação",
+    "role": "Analista de Dados",
+    "userName": "Rafael Vinicius Curiel",
+    "userTotalScore": {
+      "userTotalScore": 1260
+    },
+    "userTotalTime": 2333990,
+    "userTotalTimeFormatted": "38m:53s:0.990ms"
+  },
+  {
+    "id": "tiagohenriquedeoliveira",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "MANUTENÇÃO ELÉTRICA E INSTRUMENTAÇÃO",
+    "role": "TÉCNICO EM MANUTENÇÃO ELÉTRICA E INSTRUMENTAÇÃO",
+    "userName": "TIAGO HENRIQUE DE OLIVEIRA",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 644820,
+    "userTotalTimeFormatted": "10m:44s:0.820ms"
+  },
+  {
+    "id": "michaeldouglasgomesmartinucho",
+    "address": "Lençois Paulista",
+    "position": "Controladoria",
+    "role": "Assistente administrativo",
+    "userName": "Michael Douglas Gomes Martinucho",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 828500,
+    "userTotalTimeFormatted": "13m:48s:0.500ms"
+  },
+  {
+    "id": "luziaaraujoalves",
+    "address": "Florianópolis",
+    "position": "Operação",
+    "role": "Administrativo",
+    "userName": "Luzia Araujo Alves",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 898110,
+    "userTotalTimeFormatted": "14m:58s:0.110ms"
+  },
+  {
+    "id": "matheusviniciusmorgado",
+    "address": "Lençóis Paulista/SP",
+    "position": "Produção",
+    "role": "Assistente Administrativo",
+    "userName": "MATHEUS VINICIUS MORGADO",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 941040,
+    "userTotalTimeFormatted": "15m:41s:0.040ms"
+  },
+  {
+    "id": "adrianorobertodesouza",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "PRODUÇÃO",
+    "role": "OPERADOR DE AREA 2",
+    "userName": "ADRIANO ROBERTO DE SOUZA",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 1450130,
+    "userTotalTimeFormatted": "24m:10s:0.130ms"
+  },
+  {
+    "id": "claudiorogeriobaptista",
+    "address": "Lencois Paulista",
+    "position": "Tecnologia da Informação",
+    "role": "Analista de Dados",
+    "userName": "Claudio Rogerio Baptista",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 1478920,
+    "userTotalTimeFormatted": "24m:38s:0.920ms"
+  },
+  {
+    "id": "milenaveronezideoliveira",
+    "address": "Lençóis Paulista",
+    "position": "TI",
+    "role": "Analista de Processos de Negócios e Sistemas",
+    "userName": "Milena Veronezi de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1240
+    },
+    "userTotalTime": 1587340,
+    "userTotalTimeFormatted": "26m:27s:0.340ms"
+  },
+  {
+    "id": "marcelaaparecidaalvesrocha",
+    "address": "Lençóis Paulista",
+    "position": "Tributário",
+    "role": "Assistente Administrativo",
+    "userName": "Marcela Aparecida Alves Rocha",
+    "userTotalScore": {
+      "userTotalScore": 1220
+    },
+    "userTotalTime": 449710,
+    "userTotalTimeFormatted": "7m:29s:0.710ms"
+  },
+  {
+    "id": "jessicacristineguimaraespassosamaral",
+    "address": "Feira de Santana",
+    "position": "Centro de Coletas Feira de Santana",
+    "role": "Gestor de Filia",
+    "userName": "Jessica Cristine Guimaraes Passos Amaral",
+    "userTotalScore": {
+      "userTotalScore": 1220
+    },
+    "userTotalTime": 571740,
+    "userTotalTimeFormatted": "9m:31s:0.740ms"
+  },
+  {
+    "id": "anapaulasantanadebrito",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "RECURSOS HUMANOS",
+    "role": "ANALISTA DE DESENVOLVIMENTO I",
+    "userName": "Ana Paula Santana de Brito",
+    "userTotalScore": {
+      "userTotalScore": 1220
+    },
+    "userTotalTime": 1129310,
+    "userTotalTimeFormatted": "18m:49s:0.310ms"
+  },
+  {
+    "id": "jadeaparecidadasilvaconti",
+    "address": "Lençóis Paulista",
+    "position": "Recursos Humanos",
+    "role": "Assistente Administrativo",
+    "userName": "Jade Aparecida da Silva Conti",
+    "userTotalScore": {
+      "userTotalScore": 1220
+    },
+    "userTotalTime": 1477790,
+    "userTotalTimeFormatted": "24m:37s:0.790ms"
+  },
+  {
+    "id": "adaoferreiraleal",
+    "address": "Cascavel PR ",
+    "position": "Óleo ",
+    "role": "Motorista coletor ",
+    "userName": "Adao",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 387030,
+    "userTotalTimeFormatted": "6m:27s:0.030ms"
+  },
+  {
+    "id": "camilagallassi",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "GESTÃO DE RESÍDUOS",
+    "role": "ANALISTA AMBIENTAL",
+    "userName": "CAMILA GALLASSI",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 730830,
+    "userTotalTimeFormatted": "12m:10s:0.830ms"
+  },
+  {
+    "id": "camilalealfeitosalara",
+    "address": "Lençóis Paulista",
+    "position": "TI",
+    "role": "Analista de Processos de Negócios e Sistemas",
+    "userName": "Camila Leal Feitosa Lara",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 1306460,
+    "userTotalTimeFormatted": "21m:46s:0.460ms"
+  },
+  {
+    "id": "brunomarcelturco",
+    "address": "Lençóis Paulista",
+    "position": "Coleta e Logística",
+    "role": "Supervisor de Auditoria",
+    "userName": "Bruno Marcel Turco",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 1413730,
+    "userTotalTimeFormatted": "23m:33s:0.730ms"
+  },
+  {
+    "id": "gabrielaviannaromani",
+    "address": "Lençóis Paulista",
+    "position": "Planejamento e Controle",
+    "role": "ASSIST.ADMINISTRATIVO",
+    "userName": "Gabriela Vianna Romani",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 1795280,
+    "userTotalTimeFormatted": "29m:55s:0.280ms"
+  },
+  {
+    "id": "rodrigocerigatouso",
+    "address": "Lençois Paulista",
+    "position": "Juridico",
+    "role": "Advogado",
+    "userName": "Rodrigo Cerigato Uso",
+    "userTotalScore": {
+      "userTotalScore": 1200
+    },
+    "userTotalTime": 2251350,
+    "userTotalTimeFormatted": "37m:31s:0.350ms"
+  },
+  {
+    "id": "isabelaachiles",
+    "address": "Lençóis Paulista-SP",
+    "position": "Produção",
+    "role": "Engenheira de Processo",
+    "userName": "Isabela Achiles",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 482110,
+    "userTotalTimeFormatted": "8m:02s:0.110ms"
+  },
+  {
+    "id": "marianacampanholi",
+    "address": "Lençóis Paulista",
+    "position": "TRIBUTARIO",
+    "role": "ANALISTA FISCAL",
+    "userName": "MARIANA CAMPANHOLI",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 499610,
+    "userTotalTimeFormatted": "8m:19s:0.610ms"
+  },
+  {
+    "id": "carolinalagunapimenta",
+    "address": "Lenções Paulista",
+    "position": "CTQ - ATC",
+    "role": "Analista de Controle de Desenvolvimento",
+    "userName": "Carolina Pimenta",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 821640,
+    "userTotalTimeFormatted": "13m:41s:0.640ms"
+  },
+  {
+    "id": "luizricardodeoliveira",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "GESTÃO DE RESÍDUOS",
+    "role": "ASSISTENTE DE LOGÍSTICA",
+    "userName": "LUIZ RICARDO DE OLIVEIRA",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1052750,
+    "userTotalTimeFormatted": "17m:32s:0.750ms"
+  },
+  {
+    "id": "brunacarolinabasso",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "JURÍDICO",
+    "role": "ANALISTA JURÍDICAO II",
+    "userName": "BRUNA CAROLINA BASSO",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1244510,
+    "userTotalTimeFormatted": "20m:44s:0.510ms"
+  },
+  {
+    "id": "marcosrobertobritodasilva",
+    "address": "Lençóis Paulista",
+    "position": "Logística",
+    "role": "Instrutor de treinamentos de motoristas ",
+    "userName": "Marcos Brito",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1447560,
+    "userTotalTimeFormatted": "24m:07s:0.560ms"
+  },
+  {
+    "id": "higorrobertoturcarelli",
+    "address": "Lençóis Paulista",
+    "position": "Tecnologia da Informação",
+    "role": "Analista de Infra. e Seg. da Informação",
+    "userName": "Higor Roberto Turcarelli",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1510740,
+    "userTotalTimeFormatted": "25m:10s:0.740ms"
+  },
+  {
+    "id": "mateushenriqueevangelistadeoliveira",
+    "address": "Lençóis Paulista",
+    "position": "CONTROLE DE PROC.E QUALIDADE",
+    "role": "Técnico de laboratório",
+    "userName": "Mateus Henrique Evangelista de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1528550,
+    "userTotalTimeFormatted": "25m:28s:0.550ms"
+  },
+  {
+    "id": "mariafernandalenhatti",
+    "address": "Lençóis Paulista  ",
+    "position": "Planejamento e controle",
+    "role": "assistente adm",
+    "userName": "Maria Fernanda Lenhatti",
+    "userTotalScore": {
+      "userTotalScore": 1180
+    },
+    "userTotalTime": 1842670,
+    "userTotalTimeFormatted": "30m:42s:0.670ms"
+  },
+  {
+    "id": "rosemarcassandradefreitas",
+    "address": "Lençóis Paulista",
+    "position": "Tributário",
+    "role": "Assistente administrativo",
+    "userName": "Rosemar Cassandra de Freitas",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 449270,
+    "userTotalTimeFormatted": "7m:29s:0.270ms"
+  },
+  {
+    "id": "leticiadonascimentodias",
+    "address": "OSASCO",
+    "position": "COMCOL",
+    "role": "ANALISTA COMERCIAL",
+    "userName": "LETÍCIA DO NASCIMENTO DIAS",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 846070,
+    "userTotalTimeFormatted": "14m:06s:0.070ms"
+  },
+  {
+    "id": "luanarodolphodasilva",
+    "address": "Lençóis Paulista",
+    "position": "Auditoria Coleta",
+    "role": "Analista de Processos de Coleta e Logística I",
+    "userName": "Luana Rodolpho da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 1043300,
+    "userTotalTimeFormatted": "17m:23s:0.300ms"
+  },
+  {
+    "id": "lucasduartefeitoza",
+    "address": "lençois paulista",
+    "position": "almoxarifado",
+    "role": "aux. de almoxarifado",
+    "userName": "lucas duarte feitoza",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 1090010,
+    "userTotalTimeFormatted": "18m:10s:0.010ms"
+  },
+  {
+    "id": "suelenjulianamoraes",
+    "address": "Lençóis Paulista/SP",
+    "position": "Recursos Humanos",
+    "role": "Assistente administrativo ",
+    "userName": "Suelen Juliana Moraes",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 1226680,
+    "userTotalTimeFormatted": "20m:26s:0.680ms"
+  },
+  {
+    "id": "lorenarobertapereiradeoliveira",
+    "address": "Lençóis Paulista",
+    "position": "Planejamento e Controle",
+    "role": "Assistente Administrativo",
+    "userName": "Lorena Roberta Pereira de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 1404540,
+    "userTotalTimeFormatted": "23m:24s:0.540ms"
+  },
+  {
+    "id": "elisandrosousadeoliveira",
+    "address": "Fortaleza",
+    "position": "Comercial",
+    "role": "Gestor Comercial",
+    "userName": "Elisandro Sousa de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1160
+    },
+    "userTotalTime": 2294350,
+    "userTotalTimeFormatted": "38m:14s:0.350ms"
+  },
+  {
+    "id": "rodolfoluizdasilvarosa",
+    "address": "Lençóis Paulista - Matriz",
+    "position": "Manutenção Elétrica e Instrumentação",
+    "role": "Técnico de Manutenção Elétrica e Instrumentação",
+    "userName": "Rodolfo Luiz da Silva Rosa",
+    "userTotalScore": {
+      "userTotalScore": 1140
+    },
+    "userTotalTime": 563430,
+    "userTotalTimeFormatted": "9m:23s:0.430ms"
+  },
+  {
+    "id": "silvioandrecordeiro",
+    "address": "LENÇOIS PAULISTA SP",
+    "position": "MANUTENÇÃO INDUSTRIAL",
+    "role": "TECNICO EM ELETRICA E INSTRUMENTAÇÃO",
+    "userName": "SILVIO ANDRE CORDEIRO",
+    "userTotalScore": {
+      "userTotalScore": 1140
+    },
+    "userTotalTime": 739810,
+    "userTotalTimeFormatted": "12m:19s:0.810ms"
+  },
+  {
+    "id": "luisotaviozangarelli",
+    "address": "Lençóis Paulista",
+    "position": "Produção",
+    "role": "Operador de Painel",
+    "userName": "Luis Otavio Zangarelli",
+    "userTotalScore": {
+      "userTotalScore": 1140
+    },
+    "userTotalTime": 1304980,
+    "userTotalTimeFormatted": "21m:44s:0.980ms"
+  },
+  {
+    "id": "claudineiguidopetrina",
+    "address": "São José do Rio Preto",
+    "position": "Comercial Coleta",
+    "role": "Analista Comercial",
+    "userName": "Claudinei Guido Petrina",
+    "userTotalScore": {
+      "userTotalScore": 1140
+    },
+    "userTotalTime": 1835090,
+    "userTotalTimeFormatted": "30m:35s:0.090ms"
+  },
+  {
+    "id": "wilkerduarteteixeira",
+    "address": "Matriz",
+    "position": "Logística",
+    "role": "Coordenador",
+    "userName": "Wilker",
+    "userTotalScore": {
+      "userTotalScore": 1120
+    },
+    "userTotalTime": 520680,
+    "userTotalTimeFormatted": "8m:40s:0.680ms"
+  },
+  {
+    "id": "carolinaaparecidadesouzamonteiro",
+    "address": "Lençóis Paulista",
+    "position": "Logística",
+    "role": "Assistente de Logística",
+    "userName": "Carolina Aparecida de Souza Monteiro",
+    "userTotalScore": {
+      "userTotalScore": 1120
+    },
+    "userTotalTime": 522080,
+    "userTotalTimeFormatted": "8m:42s:0.080ms"
+  },
+  {
+    "id": "danieladecarvalholima",
+    "address": "Lençóis Paulista",
+    "position": "Recursos Humanos",
+    "role": "Analista de Desenvolvimento I",
+    "userName": "Daniela de Carvalho Lima",
+    "userTotalScore": {
+      "userTotalScore": 1120
+    },
+    "userTotalTime": 1047720,
+    "userTotalTimeFormatted": "17m:27s:0.720ms"
+  },
+  {
+    "id": "davidossantosalves",
+    "address": "APARECIDA DE GOIÂNIA",
+    "position": "CCGO",
+    "role": "AUXILIAR ADMINISTRATIVO",
+    "userName": "DAVI DOS SANTOS ALVES",
+    "userTotalScore": {
+      "userTotalScore": 1120
+    },
+    "userTotalTime": 1329370,
+    "userTotalTimeFormatted": "22m:09s:0.370ms"
+  },
+  {
+    "id": "sebastiaovalentimfrancodasilveira",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção automotiva",
+    "role": "Mecânico",
+    "userName": "Sebastiao Valentim Franco da Silveira",
+    "userTotalScore": {
+      "userTotalScore": 1120
+    },
+    "userTotalTime": 2287570,
+    "userTotalTimeFormatted": "38m:07s:0.570ms"
+  },
+  {
+    "id": "pamelamaiaraguedesdegodoi",
+    "address": "Lençois Paulista",
+    "position": "Tributario",
+    "role": "Analista",
+    "userName": "Pamela",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 287440,
+    "userTotalTimeFormatted": "4m:47s:0.440ms"
+  },
+  {
+    "id": "gustavogomesfortes",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção e Engenharia",
+    "role": "Supervisor de manutenção mecânica",
+    "userName": "Gustavo Gomes Fortes",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 521970,
+    "userTotalTimeFormatted": "8m:41s:0.970ms"
+  },
+  {
+    "id": "eduardomarinquefonsecadeandrade",
+    "address": "Lençóis Paulista",
+    "position": "Gestão de Resíduos",
+    "role": "Supervisor de Operações",
+    "userName": "Eduardo Marinque Fonseca de Andrade",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 574950,
+    "userTotalTimeFormatted": "9m:34s:0.950ms"
+  },
+  {
+    "id": "lumacristinacabral",
+    "address": "Lençóis Paulista",
+    "position": "RI e Sustentabilidade",
+    "role": "Analista I",
+    "userName": "Luma Cabral",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 725420,
+    "userTotalTimeFormatted": "12m:05s:0.420ms"
+  },
+  {
+    "id": "nataliacardosobueno",
+    "address": "Lençois Paulista",
+    "position": "Resíduos Sólidos",
+    "role": "Supervisora Trainee",
+    "userName": "Natalia Bueno",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 833940,
+    "userTotalTimeFormatted": "13m:53s:0.940ms"
+  },
+  {
+    "id": "julianateixeiramoreno",
+    "address": "Lençóis Paulista",
+    "position": "Desenvolvimento",
+    "role": "Analista de Desenvolvimento",
+    "userName": "Juliana Teixeira Moreno",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 898900,
+    "userTotalTimeFormatted": "14m:58s:0.900ms"
+  },
+  {
+    "id": "andersonmaffei",
+    "address": "Lençóis Paulista",
+    "position": "Suprimentos",
+    "role": "Coord. Adm. Materiais",
+    "userName": "Anderson Maffei",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1058780,
+    "userTotalTimeFormatted": "17m:38s:0.780ms"
+  },
+  {
+    "id": "lucianoleonildomicadeigeorgette",
+    "address": "Lençóis Paulista ",
+    "position": "Logística ",
+    "role": "Motorista ",
+    "userName": "Luciano Georgette",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1158430,
+    "userTotalTimeFormatted": "19m:18s:0.430ms"
+  },
+  {
+    "id": "leandrofazolotavares",
+    "address": "Niteroi",
+    "position": "Comercial",
+    "role": "Analista de comercial",
+    "userName": "Leandro Fazolo Tavares",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1279740,
+    "userTotalTimeFormatted": "21m:19s:0.740ms"
+  },
+  {
+    "id": "paulorafaeldacruzbarros",
+    "address": "Lençóis Paulista ",
+    "position": "Manutenção Automotiva",
+    "role": "Lavador",
+    "userName": "Paulo Rafael da Cruz Barros",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1571820,
+    "userTotalTimeFormatted": "26m:11s:0.820ms"
+  },
+  {
+    "id": "chraytongoisjanuariocandido",
+    "address": "Belo Horizonte ",
+    "position": "Comercial",
+    "role": "Gestor Comercial",
+    "userName": "Chrayton Gois Januario Candido",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1694920,
+    "userTotalTimeFormatted": "28m:14s:0.920ms"
+  },
+  {
+    "id": "ricardodealmeida",
+    "address": "Porto Velho",
+    "position": "Coleta",
+    "role": "Gestor de Filial I",
+    "userName": "Ricardo de Almeida",
+    "userTotalScore": {
+      "userTotalScore": 1100
+    },
+    "userTotalTime": 1799420,
+    "userTotalTimeFormatted": "29m:59s:0.420ms"
+  },
+  {
+    "id": "anajuliarossibaptistella",
+    "address": "Lençóis Paulista/SP",
+    "position": "RI e Sustentabilidade",
+    "role": "Analista de RI e Meio Ambiente I",
+    "userName": "Ana Julia Rossi Baptistella",
+    "userTotalScore": {
+      "userTotalScore": 1080
+    },
+    "userTotalTime": 446900,
+    "userTotalTimeFormatted": "7m:26s:0.900ms"
+  },
+  {
+    "id": "marcosantoniocheremetajunior",
+    "address": "Lençois Paulista",
+    "position": "Coleta",
+    "role": "Gestor Trainee",
+    "userName": "Marcos Cheremeta",
+    "userTotalScore": {
+      "userTotalScore": 1080
+    },
+    "userTotalTime": 678240,
+    "userTotalTimeFormatted": "11m:18s:0.240ms"
+  },
+  {
+    "id": "carloseduardocardoso",
+    "address": "Canoas",
+    "position": "Coleta e Logística de Óleo",
+    "role": "Gestor de Filial I",
+    "userName": "Carlos Eduardo Cardoso",
+    "userTotalScore": {
+      "userTotalScore": 1080
+    },
+    "userTotalTime": 1053420,
+    "userTotalTimeFormatted": "17m:33s:0.420ms"
+  },
+  {
+    "id": "mateusaugustocantero",
+    "address": "Lençois Paulista",
+    "position": "Tecnologia da Informação",
+    "role": "Analista de Infraestrutura e Segurança da Informação",
+    "userName": "Mateus Augusto Cantero",
+    "userTotalScore": {
+      "userTotalScore": 1080
+    },
+    "userTotalTime": 1656990,
+    "userTotalTimeFormatted": "27m:36s:0.990ms"
+  },
+  {
+    "id": "viniciosfranciscodossantossouza",
+    "address": "Campos dos Goitacazes ",
+    "position": "Op",
+    "role": "Motorista coletor",
+    "userName": "Vinicios  Santos ",
+    "userTotalScore": {
+      "userTotalScore": 1080
+    },
+    "userTotalTime": 4113540,
+    "userTotalTimeFormatted": "68m:33s:0.540ms"
+  },
+  {
+    "id": "lucasvieiramolinar",
+    "address": "Lençóis Paulista",
+    "position": "Tributário",
+    "role": "Analista Fiscal ",
+    "userName": "Lucas Molinar",
+    "userTotalScore": {
+      "userTotalScore": 1060
+    },
+    "userTotalTime": 810350,
+    "userTotalTimeFormatted": "13m:30s:0.350ms"
+  },
+  {
+    "id": "danielferreiradacostaalbino",
+    "address": "Contagem MG",
+    "position": "Logística ",
+    "role": "Motorista de carreta",
+    "userName": "Daniel Ferreira da Costa Albino",
+    "userTotalScore": {
+      "userTotalScore": 1060
+    },
+    "userTotalTime": 899750,
+    "userTotalTimeFormatted": "14m:59s:0.750ms"
+  },
+  {
+    "id": "emillypassosborgesaraujo",
+    "address": "Linhares",
+    "position": "Estagio Administrativo",
+    "role": "Estagiario",
+    "userName": "Emilly Passos Borges Araujo",
+    "userTotalScore": {
+      "userTotalScore": 1060
+    },
+    "userTotalTime": 907350,
+    "userTotalTimeFormatted": "15m:07s:0.350ms"
+  },
+  {
+    "id": "deboramenezeswaldukat",
+    "address": "Curitiba",
+    "position": "Comercial",
+    "role": "Analista",
+    "userName": "Débora Waldukat",
+    "userTotalScore": {
+      "userTotalScore": 1060
+    },
+    "userTotalTime": 1037020,
+    "userTotalTimeFormatted": "17m:17s:0.020ms"
+  },
+  {
+    "id": "ellenclaudiadesouzacamargo",
+    "address": "Lençóis Paulista",
+    "position": "Recursos Humanos",
+    "role": "Analista de Desenvolvimento",
+    "userName": "Ellen Claudia de Souza Camargo",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 461320,
+    "userTotalTimeFormatted": "7m:41s:0.320ms"
+  },
+  {
+    "id": "luanagabriellydasilva",
+    "address": "Lençóis Paulista",
+    "position": "Controladoria",
+    "role": "Analista de controladoria I",
+    "userName": "Luana Gabrielly da Silva",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 599930,
+    "userTotalTimeFormatted": "9m:59s:0.930ms"
+  },
+  {
+    "id": "leonardogarciadeoliveira",
+    "address": "Lençois Paulista - SP",
+    "position": "Gestão de Rsíduo",
+    "role": "Supervisor Trainee",
+    "userName": "Leonardo Garcia de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 1024760,
+    "userTotalTimeFormatted": "17m:04s:0.760ms"
+  },
+  {
+    "id": "edivandrodegois",
+    "address": "Lençóis Paulista",
+    "position": "Comercial Coleta",
+    "role": "Gestor Comercial",
+    "userName": "Edivandro de Gois",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 1060660,
+    "userTotalTimeFormatted": "17m:40s:0.660ms"
+  },
+  {
+    "id": "rafaellinodossantos",
+    "address": "Cascavel",
+    "position": "Coleta Cascavel",
+    "role": "Gestor de filial",
+    "userName": "Rafael Lino dos Santos",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 1076470,
+    "userTotalTimeFormatted": "17m:56s:0.470ms"
+  },
+  {
+    "id": "francismeiredacostadecarvalho",
+    "address": "Lençóis Paulista",
+    "position": "Financeiro",
+    "role": "assistente administrativo",
+    "userName": "Francismeire Costa de Carvalho",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 1869430,
+    "userTotalTimeFormatted": "31m:09s:0.430ms"
+  },
+  {
+    "id": "geisonrobertosilvadossantos",
+    "address": "PORTO ALEGRE(CANOAS)",
+    "position": "COMERCIAL",
+    "role": "ANALISTA",
+    "userName": "GEISON ROBERTO SILVA DOS SANTOS",
+    "userTotalScore": {
+      "userTotalScore": 1040
+    },
+    "userTotalTime": 1975530,
+    "userTotalTimeFormatted": "32m:55s:0.530ms"
+  },
+  {
+    "id": "claudineiribeiro",
+    "address": "Lençóis Paulista",
+    "position": "Manutenção Mecânica ",
+    "role": "Técnico Manutenção Mecânica ",
+    "userName": "Claudinei",
+    "userTotalScore": {
+      "userTotalScore": 1020
+    },
+    "userTotalTime": 82750,
+    "userTotalTimeFormatted": "1m:22s:0.750ms"
+  },
+  {
+    "id": "julianaportesmonteirodesouza",
+    "address": "Lençóis Paulista",
+    "position": "Suprimentos",
+    "role": "Compradora",
+    "userName": "Juliana Portes Monteiro de Souza",
+    "userTotalScore": {
+      "userTotalScore": 1020
+    },
+    "userTotalTime": 569460,
+    "userTotalTimeFormatted": "9m:29s:0.460ms"
+  },
+  {
+    "id": "brunoscarabottolodacunhaandrade",
+    "address": "SALVADOR",
+    "position": "COMERCIAL COLETA",
+    "role": "COORDENADOR COMERCIAL COLETA",
+    "userName": "BRUNO SCARABOTTOLO DA CUNHA ANDRADE",
+    "userTotalScore": {
+      "userTotalScore": 1020
+    },
+    "userTotalTime": 612010,
+    "userTotalTimeFormatted": "10m:12s:0.010ms"
+  },
+  {
+    "id": "veronicalememartins",
+    "address": "Lençóis Paulista - SP",
+    "position": "Gestão de Resíduos",
+    "role": "Assistente Administrativo",
+    "userName": "Veronica Leme Martins",
+    "userTotalScore": {
+      "userTotalScore": 1020
+    },
+    "userTotalTime": 1205480,
+    "userTotalTimeFormatted": "20m:05s:0.480ms"
+  },
+  {
+    "id": "selmonogueiracabral",
+    "address": "Linhares ",
+    "position": "Centro de Coleta Linhares-Es",
+    "role": "MOTORISTA COLET.OLEO LUBRIF.USADO",
+    "userName": "Selmo",
+    "userTotalScore": {
+      "userTotalScore": 1020
+    },
+    "userTotalTime": 1454950,
+    "userTotalTimeFormatted": "24m:14s:0.950ms"
+  },
+  {
+    "id": "aparecidodonisetelopes",
+    "address": "Lençois Paulista",
+    "position": "Logistica",
+    "role": "Motorista de Carreta",
+    "userName": "Aparecido Donisete Lopes",
+    "userTotalScore": {
+      "userTotalScore": 1000
+    },
+    "userTotalTime": 334090,
+    "userTotalTimeFormatted": "5m:34s:0.090ms"
+  },
+  {
+    "id": "biancazaninorsi",
+    "address": "Lençóis Paulista-SP",
+    "position": "RH- Desenvolvimento",
+    "role": "Analista de Desenvolvimento",
+    "userName": "Bianca Zanin Orsi",
+    "userTotalScore": {
+      "userTotalScore": 1000
+    },
+    "userTotalTime": 685450,
+    "userTotalTimeFormatted": "11m:25s:0.450ms"
+  },
+  {
+    "id": "cesaraugustolopes",
+    "address": "Lençois paulista",
+    "position": "Produção",
+    "role": "Operador de painel",
+    "userName": "cesar augusto lopes",
+    "userTotalScore": {
+      "userTotalScore": 1000
+    },
+    "userTotalTime": 1019850,
+    "userTotalTimeFormatted": "16m:59s:0.850ms"
+  },
+  {
+    "id": "brunoelerdeoliveira",
+    "address": "Belo Horizonte MG",
+    "position": "Coleta",
+    "role": "Gestor de Filial I",
+    "userName": "Bruno Eler de Oliveira",
+    "userTotalScore": {
+      "userTotalScore": 1000
+    },
+    "userTotalTime": 1221410,
+    "userTotalTimeFormatted": "20m:21s:0.410ms"
+  },
+  {
+    "id": "carlosalbertoesouza",
+    "address": "Osaaco",
+    "position": "Centro de coleta",
+    "role": "Motorista coletor ",
+    "userName": "Carlos Alberto e Souza",
+    "userTotalScore": {
+      "userTotalScore": 1000
+    },
+    "userTotalTime": 1420130,
+    "userTotalTimeFormatted": "23m:40s:0.130ms"
+  },
+  {
+    "id": "raulhenriquegalassipadovan",
+    "address": "Lençóis Paulista",
+    "position": "Qualidade",
+    "role": "Analista de gestão de processos ",
+    "userName": "Raul Galassi Padovan",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 664130,
+    "userTotalTimeFormatted": "11m:04s:0.130ms"
+  },
+  {
+    "id": "marciavivianeteodosiocordeiro",
+    "address": "Lençois Paulista - SP",
+    "position": "Segurança do Trabalho",
+    "role": "Técnico em Segurança",
+    "userName": "Marcia Viviane Teodosio",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 685060,
+    "userTotalTimeFormatted": "11m:25s:0.060ms"
+  },
+  {
+    "id": "andrezacamposcarneiro",
+    "address": "Lençóis Paulista",
+    "position": "Planejamento e controle - Célula comercial",
+    "role": "Assistente Administrativo",
+    "userName": "Andreza Campos Carneiro",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 831810,
+    "userTotalTimeFormatted": "13m:51s:0.810ms"
+  },
+  {
+    "id": "andersonmarcelinoribeiro",
+    "address": "Lençóis  Paulista ",
+    "position": "Logística ",
+    "role": "Motorista  de carreta",
+    "userName": "Anderson ",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 857380,
+    "userTotalTimeFormatted": "14m:17s:0.380ms"
+  },
+  {
+    "id": "brenobuenomenegon",
+    "address": "Lençóis Paulista ",
+    "position": "Suprimentos",
+    "role": "Assistente de compras",
+    "userName": "Breno Bueno Menegon",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 1048480,
+    "userTotalTimeFormatted": "17m:28s:0.480ms"
+  },
+  {
+    "id": "davicarlosromaopedro",
+    "address": "Lençóis Paulista",
+    "position": "Produção",
+    "role": "Operador de Área 1",
+    "userName": "Davi Carlos Romao Pedro",
+    "userTotalScore": {
+      "userTotalScore": 980
+    },
+    "userTotalTime": 1692520,
+    "userTotalTimeFormatted": "28m:12s:0.520ms"
+  },
+  {
+    "id": "marcelolima",
+    "address": "Aparecida de Goiânia ",
+    "position": "Coleta",
+    "role": "Gestor Comercial",
+    "userName": "Marcelo Lima",
+    "userTotalScore": {
+      "userTotalScore": 960
+    },
+    "userTotalTime": 475110,
+    "userTotalTimeFormatted": "7m:55s:0.110ms"
+  },
+  {
+    "id": "daianenoelesilva",
+    "address": "Lençóis Paulista",
+    "position": "Compras",
+    "role": "Comprador",
+    "userName": "Daiane Noele Silva",
+    "userTotalScore": {
+      "userTotalScore": 960
+    },
+    "userTotalTime": 642540,
+    "userTotalTimeFormatted": "10m:42s:0.540ms"
+  },
+  {
+    "id": "fabriciosousadossantosdesaopedro",
+    "address": "Florianópolis",
+    "position": "Operacional",
+    "role": "Operador de Centro de Coleta",
+    "userName": "Fabricio Sousa dos Santos de Sao Pedro",
+    "userTotalScore": {
+      "userTotalScore": 960
+    },
+    "userTotalTime": 1118380,
+    "userTotalTimeFormatted": "18m:38s:0.380ms"
+  },
+  {
+    "id": "ronaldopereiradacosta",
+    "address": "Rondonopolis ",
+    "position": "Coleta",
+    "role": "Motorista ",
+    "userName": "Ronaldo Pereira da Costa ",
+    "userTotalScore": {
+      "userTotalScore": 940
+    },
+    "userTotalTime": 1245450,
+    "userTotalTimeFormatted": "20m:45s:0.450ms"
+  },
+  {
+    "id": "anapaulabachlima",
+    "address": "Cascavel",
+    "position": "ADM",
+    "role": "Operador de centro de coleta ",
+    "userName": "Ana Paula Bach Lima",
+    "userTotalScore": {
+      "userTotalScore": 940
+    },
+    "userTotalTime": 1470400,
+    "userTotalTimeFormatted": "24m:30s:0.400ms"
+  },
+  {
+    "id": "josemarcosdasilvajunior",
+    "address": "Lençóis Paulista",
+    "position": "Centro de coleta ",
+    "role": "Motorista coletor",
+    "userName": "José Marcos da Silva Júnior ",
+    "userTotalScore": {
+      "userTotalScore": 940
+    },
+    "userTotalTime": 1544250,
+    "userTotalTimeFormatted": "25m:44s:0.250ms"
+  },
+  {
+    "id": "julianofabiolaabsdeoliveira",
+    "address": "Cascavel ",
+    "position": "Coletas",
+    "role": "Motorista ",
+    "userName": "Juliano Fabio Laabs de Oliveira ",
+    "userTotalScore": {
+      "userTotalScore": 920
+    },
+    "userTotalTime": 829630,
+    "userTotalTimeFormatted": "13m:49s:0.630ms"
+  },
+  {
+    "id": "carolinamarcondesrezendeandrade",
+    "address": "Lencois Paulista ",
+    "position": "Recursos Humanos ",
+    "role": "Analista de RH ",
+    "userName": "Carolina Marcondes Rezende Andrade",
+    "userTotalScore": {
+      "userTotalScore": 920
+    },
+    "userTotalTime": 835720,
+    "userTotalTimeFormatted": "13m:55s:0.720ms"
+  },
+  {
+    "id": "edvalxavier",
+    "address": "Lençois paulista",
+    "position": "Logistica",
+    "role": "Motorista carreta",
+    "userName": "Edvaldo xavier",
+    "userTotalScore": {
+      "userTotalScore": 920
+    },
+    "userTotalTime": 1316070,
+    "userTotalTimeFormatted": "21m:56s:0.070ms"
+  },
+  {
+    "id": "elianereginalopesdossantos",
+    "address": "LENÇOIS PAULISTA",
+    "position": "Serviço de Nutrição",
+    "role": "Tec. de Nutrição",
+    "userName": "Eliane Lopes",
+    "userTotalScore": {
+      "userTotalScore": 920
+    },
+    "userTotalTime": 1451730,
+    "userTotalTimeFormatted": "24m:11s:0.730ms"
+  },
+  {
+    "id": "alexandreluisdesouza",
+    "address": "Osasco ",
+    "position": "Coleta",
+    "role": "Motorista ",
+    "userName": "Alexandre Luis de Souza ",
+    "userTotalScore": {
+      "userTotalScore": 900
+    },
+    "userTotalTime": 1016010,
+    "userTotalTimeFormatted": "16m:56s:0.010ms"
+  },
+  {
+    "id": "hudsontavaresrodriguesdasilva",
+    "address": "Campos dos Goytacazes ",
+    "position": "Co",
+    "role": "Mot",
+    "userName": "Hudson Tavares ",
+    "userTotalScore": {
+      "userTotalScore": 900
+    },
+    "userTotalTime": 1714700,
+    "userTotalTimeFormatted": "28m:34s:0.700ms"
+  },
+  {
+    "id": "washingtonsantosdejesus",
+    "address": "Aparecida de Goiânia",
+    "position": "Coleta",
+    "role": "Motorista Coletor ",
+    "userName": "Washington Santos de Jesus",
+    "userTotalScore": {
+      "userTotalScore": 880
+    },
+    "userTotalTime": 524020,
+    "userTotalTimeFormatted": "8m:44s:0.020ms"
+  },
+  {
+    "id": "denisamorimcardoso",
+    "address": "Osasco ",
+    "position": "Coleta",
+    "role": "Motorista coletor",
+    "userName": "21712663844",
+    "userTotalScore": {
+      "userTotalScore": 880
+    },
+    "userTotalTime": 869260,
+    "userTotalTimeFormatted": "14m:29s:0.260ms"
+  },
+  {
+    "id": "henriquefernandes",
+    "address": "Lençóis paulista",
+    "position": "Produção industrial",
+    "role": "Operador de Área I",
+    "userName": "Henrique Fernandes",
+    "userTotalScore": {
+      "userTotalScore": 880
+    },
+    "userTotalTime": 1193100,
+    "userTotalTimeFormatted": "19m:53s:0.100ms"
+  },
+  {
+    "id": "junioraparecidodasilva",
+    "address": "Guarulhos ",
+    "position": "Centro de coleta",
+    "role": "Motorista coletor de óleo lubrificante usado",
+    "userName": "Junior aparecido ",
+    "userTotalScore": {
+      "userTotalScore": 880
+    },
+    "userTotalTime": 1248480,
+    "userTotalTimeFormatted": "20m:48s:0.480ms"
+  },
+  {
+    "id": "salatieldossantoslopes",
+    "address": "Várzea Grande ",
+    "position": "Cc",
+    "role": "Motorista coletor",
+    "userName": "Salatiel dos santos lopes",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 633100,
+    "userTotalTimeFormatted": "10m:33s:0.100ms"
+  },
+  {
+    "id": "rodrigomateusdeoliveira",
+    "address": "Lençóis paulista ",
+    "position": "Lga",
+    "role": "Aux.servico gerais ",
+    "userName": "Rodrigo Mateus de Oliveira ",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 746390,
+    "userTotalTimeFormatted": "12m:26s:0.390ms"
+  },
+  {
+    "id": "victormicheldosreissantos",
+    "address": "Embu Guaçu SP ",
+    "position": "Centro de Coletas",
+    "role": "Motorista coletor",
+    "userName": "Victor",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 808950,
+    "userTotalTimeFormatted": "13m:28s:0.950ms"
+  },
+  {
+    "id": "gizelaperaltadegodoipasqualinotto",
+    "address": "Lençóis Paulista ",
+    "position": "CPQ",
+    "role": "Técnico em química ",
+    "userName": "Gizela",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 887230,
+    "userTotalTimeFormatted": "14m:47s:0.230ms"
+  },
+  {
+    "id": "edinilsonsoarescarvalho",
+    "address": "Lençóis Paulista",
+    "position": "Centro de Coleta de Lençóis Paulista",
+    "role": "Motorista Coletor",
+    "userName": "Edinilson Soares Carvalho",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 1129910,
+    "userTotalTimeFormatted": "18m:49s:0.910ms"
+  },
+  {
+    "id": "andredesouzapirchiner",
+    "address": "Governador Valadares ",
+    "position": "Coleta ",
+    "role": "Motorista ",
+    "userName": "ANDRE DE SOUZA PIRCHINER",
+    "userTotalScore": {
+      "userTotalScore": 860
+    },
+    "userTotalTime": 2554590,
+    "userTotalTimeFormatted": "42m:34s:0.590ms"
+  },
+  {
+    "id": "adrianedgarfinco",
+    "address": "Lençóis Paulista",
+    "position": "TI",
+    "role": "Analista de Infra e Segurança da Informação",
+    "userName": "Adrian Edgar Finco",
+    "userTotalScore": {
+      "userTotalScore": 820
+    },
+    "userTotalTime": 270350,
+    "userTotalTimeFormatted": "4m:30s:0.350ms"
+  },
+  {
+    "id": "gabrieloliveirafeitoza",
+    "address": "LENÇÓIS PAULISTA",
+    "position": "MANUTENÇÃO AUTOMOTIVA",
+    "role": "AUXILIAR ADMINISTRATIVO",
+    "userName": "GABRIEL OLIVEIRA FEITOZA",
+    "userTotalScore": {
+      "userTotalScore": 820
+    },
+    "userTotalTime": 526940,
+    "userTotalTimeFormatted": "8m:46s:0.940ms"
+  }
+]
